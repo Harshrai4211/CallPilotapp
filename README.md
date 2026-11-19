@@ -50,22 +50,23 @@ npm run dev
 
 ---
 
-### 📱 Mobile Responsive View
+## 📱 Mobile Responsive Views
 
-### Mobile Hero Section**
-![Mobile Hero](documentation/screenshots/hero-m.jpeg)
+### Mobile Homepage
+<img src="documentation/screenshots/home-m.jpeg" width="220" alt="CallPilot Mobile Homepage" />
 
-### Mobile Homepage**
-![Mobile Homepage](documentation/screenshots/home-m.jpeg)
+### Mobile Homepage - Alternate View
+<img src="documentation/screenshots/home2-m.jpeg" width="220" alt="CallPilot Mobile Homepage 2" />
 
-### Mobile Homepage – Alternate View**
-![Mobile Homepage 2](documentation/screenshots/home2-m.jpeg)
+### Mobile Hero Section
+<img src="documentation/screenshots/hero-m.jpeg" width="220" alt="CallPilot Mobile Hero" />
 
-### Mobile Pricing Section**
-![Mobile Pricing](documentation/screenshots/pricing-m.jpeg)
+### Mobile Pricing Section
+<img src="documentation/screenshots/pricing-m.jpeg" width="220" alt="CallPilot Mobile Pricing" />
 
-### Mobile Demo Request Form**
-![Mobile Demo Form](documentation/screenshots/demo-m.jpeg)
+### Mobile Demo Form
+<img src="documentation/screenshots/demo-m.jpeg" width="220" alt="CallPilot Mobile Demo Form" />
+
 
 ## Developer
 Harsh Kumar Rai
