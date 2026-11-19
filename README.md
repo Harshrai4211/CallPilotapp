@@ -52,21 +52,34 @@ npm run dev
 
 ## 📱 Mobile Responsive Views
 
-### Mobile Homepage
-<img src="documentation/screenshots/home-m.jpeg" width="220" alt="CallPilot Mobile Homepage" />
-
-### Mobile Homepage - Alternate View
-<img src="documentation/screenshots/home2-m.jpeg" width="220" alt="CallPilot Mobile Homepage 2" />
-
-### Mobile Hero Section
-<img src="documentation/screenshots/hero-m.jpeg" width="220" alt="CallPilot Mobile Hero" />
-
-### Mobile Pricing Section
-<img src="documentation/screenshots/pricing-m.jpeg" width="220" alt="CallPilot Mobile Pricing" />
-
-### Mobile Demo Form
-<img src="documentation/screenshots/demo-m.jpeg" width="220" alt="CallPilot Mobile Demo Form" />
-
+<table>
+  <tr>
+    <td align="center">
+      <b>Mobile Homepage</b><br/>
+      <img src="documentation/screenshots/home-m.jpeg" width="220" alt="Mobile Homepage"/>
+    </td>
+    <td align="center">
+      <b>Mobile Homepage - Alternate</b><br/>
+      <img src="documentation/screenshots/home2-m.jpeg" width="220" alt="Mobile Homepage Alternate"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <b>Mobile Hero Section</b><br/>
+      <img src="documentation/screenshots/hero-m.jpeg" width="220" alt="Mobile Hero"/>
+    </td>
+    <td align="center">
+      <b>Mobile Pricing Section</b><br/>
+      <img src="documentation/screenshots/pricing-m.jpeg" width="220" alt="Mobile Pricing"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" colspan="2">
+      <b>Mobile Demo Form</b><br/>
+      <img src="documentation/screenshots/demo-m.jpeg" width="220" alt="Mobile Demo Form"/>
+    </td>
+  </tr>
+</table>
 
 ## Developer
 Harsh Kumar Rai
