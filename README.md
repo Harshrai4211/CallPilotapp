@@ -30,6 +30,26 @@ npm install
 npm run dev
 ```
 
+
+## 📸 Project Screenshots on Desktop
+
+### Homepage – Desktop
+![CallPilot UI](documentation/screenshots/ui.png)
+
+### Homepage – Additional View
+![CallPilot UI 2](documentation/screenshots/ui2.png)
+
+### Hero Section
+![CallPilot Hero](documentation/screenshots/hero.png)
+
+### Pricing Section
+![CallPilot Pricing](documentation/screenshots/pricing.png)
+
+### Demo Request Form
+![CallPilot Demo Form](documentation/screenshots/demo-form.png)
+
+
+
 ## Developer
 Harsh Kumar Rai
 
