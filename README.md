@@ -67,9 +67,7 @@ Live URL: https://callpilotapp.netlify.app/
 
 GitHub: https://github.com/Harshrai4211
 
-## 📄 Internship Assignment
 
-Developed as part of the Sankar Group Front-End Development Internship Assignment.
 
 ---
 
