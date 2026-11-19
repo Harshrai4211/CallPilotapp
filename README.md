@@ -33,14 +33,14 @@ npm run dev
 
 ## 📸 Project Screenshots on Desktop
 
+### Hero Section
+![CallPilot Hero](documentation/screenshots/hero.png)
+
 ### Homepage – Desktop
 ![CallPilot UI](documentation/screenshots/ui.png)
 
 ### Homepage – Additional View
 ![CallPilot UI 2](documentation/screenshots/ui2.png)
-
-### Hero Section
-![CallPilot Hero](documentation/screenshots/hero.png)
 
 ### Pricing Section
 ![CallPilot Pricing](documentation/screenshots/pricing.png)
