@@ -48,7 +48,24 @@ npm run dev
 ### Demo Request Form
 ![CallPilot Demo Form](documentation/screenshots/demo-form.png)
 
+---
 
+### 📱 Mobile Responsive View
+
+### Mobile Hero Section**
+![Mobile Hero](documentation/screenshots/hero-m.jpg)
+
+### Mobile Homepage**
+![Mobile Homepage](documentation/screenshots/home-m.jpg)
+
+### Mobile Homepage – Alternate View**
+![Mobile Homepage 2](documentation/screenshots/home2-m.jpg)
+
+### Mobile Pricing Section**
+![Mobile Pricing](documentation/screenshots/pricing-m.jpg)
+
+### Mobile Demo Request Form**
+![Mobile Demo Form](documentation/screenshots/demo-m.jpg)
 
 ## Developer
 Harsh Kumar Rai
