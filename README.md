@@ -53,19 +53,19 @@ npm run dev
 ### 📱 Mobile Responsive View
 
 ### Mobile Hero Section**
-![Mobile Hero](documentation/screenshots/hero-m.jpg)
+![Mobile Hero](documentation/screenshots/hero-m.jpeg)
 
 ### Mobile Homepage**
-![Mobile Homepage](documentation/screenshots/home-m.jpg)
+![Mobile Homepage](documentation/screenshots/home-m.jpeg)
 
 ### Mobile Homepage – Alternate View**
-![Mobile Homepage 2](documentation/screenshots/home2-m.jpg)
+![Mobile Homepage 2](documentation/screenshots/home2-m.jpeg)
 
 ### Mobile Pricing Section**
-![Mobile Pricing](documentation/screenshots/pricing-m.jpg)
+![Mobile Pricing](documentation/screenshots/pricing-m.jpeg)
 
 ### Mobile Demo Request Form**
-![Mobile Demo Form](documentation/screenshots/demo-m.jpg)
+![Mobile Demo Form](documentation/screenshots/demo-m.jpeg)
 
 ## Developer
 Harsh Kumar Rai
